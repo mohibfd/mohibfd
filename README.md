@@ -2,14 +2,17 @@
 
 🌱 My main interests are in machine learning and deep learning.
 
-📫 You can reach me on LinkedIn
-<a href="https://www.linkedin.com/in/mohib-akoum-226411200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+ <br />
 
+You can reach me on [Linked](https://www.linkedin.com/in/mohib-akoum-226411200/)<a href="https://www.linkedin.com/in/mohib-akoum-226411200/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="15" width="15" /></a>
 
+ <br />
+ 
 🔧 &nbsp;**Projects Developed**
 <!-- PROJECTS-LIST:START -->
 - [Emotional Intelligence Feedback Platform](https://johari360.com/), [Private Repository](https://stgit.dcs.gla.ac.uk/tp3-2020-SE01/se01-main)
 - [Website for Independent Perfumer](https://www.nourakoumparfumeur.com/), [Repository](https://github.com/mohibfd/WebsiteForNour)
+- [Lifestyle App To Facilitate Everyday Tasks](https://www.nourakoumparfumeur.com/), [Repository](https://github.com/mohibfd/MyApp)
 <!-- PROJECTS-LIST:END -->
 
 
