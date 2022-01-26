@@ -15,6 +15,7 @@ You can reach me on [Linked](https://www.linkedin.com/in/mohib-akoum-226411200/)
 - Dimensionality Reduction
 - Search Algorithms
 - Neural Networks
+- Computer Vision
 - Classification
 - Reinforcement
 - Clustering
