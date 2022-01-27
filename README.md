@@ -55,7 +55,7 @@ Languages:
 </a>
 <!-- LANGUAGES-LIST:END -->
  
-<br/>
+<!-- <br/> -->
 
 <!-- LIBRARIES-LIST:START -->
 Libraries: 
@@ -67,7 +67,7 @@ Libraries:
 </a>
 <!-- LIBRARIES-LIST:END -->
  
-<br/>
+<!-- <br/> -->
  
 <!-- DATABASE-LIST:START -->
 Database management systems:
@@ -78,16 +78,17 @@ Database management systems:
 </a>
 <!-- DATABASE-LIST:END -->
  
-<br/>
+<!-- <br/> -->
  
 <!-- FRAMEWORKS-LIST:START -->
 Frameworks:
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
 </a>
 <!-- FRAMEWORKS-LIST:END -->
  
- <br/>
+<!--  <br/> -->
 
 <!-- TOOLS-LIST:START -->
 Tools:
@@ -96,7 +97,7 @@ Tools:
 </a>
 <!-- TOOLS-LIST:END -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- OS-LIST:START -->
 Operating Systems:
