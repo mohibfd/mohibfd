@@ -4,7 +4,7 @@
 
  <br />
 
-You can reach me on [Linked](https://www.linkedin.com/in/mohib-akoum-226411200/)<a href="https://www.linkedin.com/in/mohib-akoum-226411200/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="15" width="15" /></a>
+You can reach me on [Linked](https://www.linkedin.com/in/mohib-akoum-226411200/)<a href="https://www.linkedin.com/in/mohib-akoum-226411200/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohibakoum" height="15" width="15" /></a>
 
  <br />
 
