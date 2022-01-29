@@ -14,12 +14,12 @@ You can reach me on [Linked](https://www.linkedin.com/in/mohib-akoum-226411200/)
 <!-- EXPERIENCE-LIST:START -->
 - Dimensionality Reduction
 - Search Algorithms
-- Neural Networks
 - Computer Vision
-- Classification
+- Neural Networks
 - Reinforcement
-- Clustering
+- Classification
 - Regression
+- Clustering
 - NLP
 <!-- EXPERIENCE-LIST:END -->
 </details>
