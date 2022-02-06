@@ -33,7 +33,7 @@ You can reach me on [Linked](https://www.linkedin.com/in/mohib-akoum-226411200/)
 - [Lifestyle App to Facilitate Everyday Tasks](https://drive.google.com/file/d/1j8yN8HW-xrE2MfBpt8LRP4-efW08d7KG/view?usp=sharing), [Repository](https://github.com/mohibfd/MyApp)
 - [Emotional Intelligence Feedback Platform](https://johari360.com/), [Private Repository](https://stgit.dcs.gla.ac.uk/tp3-2020-SE01/se01-main)
 - [Website for Independent Perfumer](https://www.nourakoumparfumeur.com/), [Repository](https://github.com/mohibfd/WebsiteForNour)
-- [Yahtzee (Dice Game)](https://www.nourakoumparfumeur.com/), [Repository](https://github.com/mohibfd/Yahtzee)
+- [Yahtzee (Dice Game)](https://drive.google.com/file/d/1iVHAIgb1p6lFEYLMB-7UeUZOf4_LW6Bj/view?usp=sharing), [Repository](https://github.com/mohibfd/Yahtzee)
 <!-- PROJECTS-LIST:END -->
 </details>
 
