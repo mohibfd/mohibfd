@@ -8,10 +8,11 @@ You can reach me on [Linked](https://www.linkedin.com/in/mohib-akoum-226411200/)
 
  <br />
 
+<!--
 <details>
    <summary><b>🤖&nbsp;&nbsp;Artificial&nbsp;Intelligence&nbsp;Experience</b></summary>
 
-<!-- EXPERIENCE-LIST:START -->
+<!-- EXPERIENCE-LIST:START 
 - Dimensionality Reduction
 - Search Algorithms
 - Computer Vision
@@ -21,23 +22,25 @@ You can reach me on [Linked](https://www.linkedin.com/in/mohib-akoum-226411200/)
 - Regression
 - Clustering
 - NLP
-<!-- EXPERIENCE-LIST:END -->
+<!-- EXPERIENCE-LIST:END
 </details>
-
+ 
+ 
  <br />
  
  <details>
    <summary><b>💻&nbsp;&nbsp;Projects&nbsp;Developed</b></summary>
  
- <!-- PROJECTS-LIST:START -->
+ <!-- PROJECTS-LIST:START 
 - [Lifestyle App to Facilitate Everyday Tasks](https://drive.google.com/file/d/1j8yN8HW-xrE2MfBpt8LRP4-efW08d7KG/view?usp=sharing), [Repository](https://github.com/mohibfd/MyApp)
 - [Emotional Intelligence Feedback Platform](https://johari360.com/), [Private Repository](https://stgit.dcs.gla.ac.uk/tp3-2020-SE01/se01-main)
 - [Website for Independent Perfumer](https://www.nourakoumparfumeur.com/), [Repository](https://github.com/mohibfd/WebsiteForNour)
 - [Yahtzee (Dice Game)](https://drive.google.com/file/d/1iVHAIgb1p6lFEYLMB-7UeUZOf4_LW6Bj/view?usp=sharing), [Repository](https://github.com/mohibfd/Yahtzee)
-<!-- PROJECTS-LIST:END -->
+<!-- PROJECTS-LIST:END 
 </details>
 
  <br />
+-->
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
